@@ -45,7 +45,7 @@
 #define DEBOUNCE 200  // Tempo de debounce em milissegundos
 #define TEMPO_MAXIMO_ESPERA 5000 // Tempo de segurança em milissegundos
 #define PWM_FRENTE 255  // Potência máxima para frente
-#define PWM_LATERAL 180  // Potência reduzida para direita e esquerda
+#define PWM_LATERAL 150  // Potência reduzida para direita e esquerda
 
 /* Instância do BluetoothSerial ----------------------------------------------*/
 BluetoothSerial Bluetooth;
